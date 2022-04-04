@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @tocdata
+- 👀 I’m interested in python programming and machine learning
+- 🌱 I’m currently learning computer science
